@@ -1,14 +1,13 @@
 body{
-background: #F6AAAA;
+background: #FFECEC;
 }
 
 .contenedor{
-	border: 1px solid;
 	display: flex;
 	margin: 20px 20px;
-	background: #AAF6C3;
-	border-radius: 10px;
+	background: #F1FFEC;
 	padding: 10px;
+	border-radius: 10px;
 }
 
 img{
